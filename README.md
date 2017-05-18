@@ -10,7 +10,7 @@ Build a web app for dynamic dashboard with crossfilter.js, dc.js and d3.js
  
  > node server.js
  
- ## TO view the pages on browser
+ ## To view the pages on browser
  1. View the overall dashboard
  
  http://localhost:8080/
