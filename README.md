@@ -30,5 +30,7 @@ Build a web app for dynamic dashboard with crossfilter.js, dc.js and d3.js
   
   The blog related to this : https://www.codeproject.com/Articles/693841/Making-Dashboards-with-Dc-js-Part-Using-Crossfil
   
-  <iframe width="560" height="315" src="https://www.youtube.com/embed/OA_MlhYzGTM" frameborder="0" allowfullscreen></iframe>
+  ## Video on how to run the code is uploaded on youtube
+  
+ https://youtu.be/OA_MlhYzGTM
  
